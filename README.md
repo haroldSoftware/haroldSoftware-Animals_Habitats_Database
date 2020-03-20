@@ -18,7 +18,7 @@ Animal Predator ID
 Animal Prey ID
 
 ## Launch API
--- npm start / nodemon in Terminal
+-- npm i, npm start / nodemon in Terminal
 -- local host is on port 9000
 
 ## CRUD OPERATIONS
