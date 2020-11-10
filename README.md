@@ -19,9 +19,11 @@ Animal Predator ID
 Animal Prey ID
 
 ## Launch API
+Download dependency packages with <br> 
 $ npm i <br>
 then initialize the database with the seed file with <br> 
 $ node seed.js <br>  
+then turn on server and listen for requests with <br> 
 $ npm start <br> 
 or instead of npm start in Terminal use <br> 
 $ nodemon <br> 
