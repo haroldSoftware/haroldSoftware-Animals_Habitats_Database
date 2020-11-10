@@ -19,7 +19,9 @@ Animal Predator ID
 Animal Prey ID
 
 ## Launch API
-$ npm i <br> 
+$ npm i <br>
+then initialize the database with the seed file with <br> 
+$ node seed.js <br>  
 $ npm start <br> 
 or instead of npm start in Terminal use <br> 
 $ nodemon <br> 
