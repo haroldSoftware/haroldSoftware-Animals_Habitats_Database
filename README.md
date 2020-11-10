@@ -55,14 +55,14 @@ http://localhost:9000/habitats/1 --> Update Habitat # 1
 http://localhost:9000/animals/1 --> Delete Animal # 1
 http://localhost:9000/habitats/1 --> Delete Habitat # 1
 
-## Technologies Used
--- Express
--- Node JS / Nodemon
--- Postman
--- SQLITE 3
--- DB Browser
+## Technologies and Tools Used
+-- Express JS <br>
+-- Node JS / Nodemon <br> 
+-- Postman <br> 
+-- SQLITE 3 <br> 
+-- DB Browser <br> 
 
 ## Next Steps
--- Stretch 1) Add user front HTML/CSS
--- Stretch 2) Implement synchronous seed file
--- Stretch 3) Put all verbs into separate routers / organize index.js
+-- Stretch 1) Add user front HTML/CSS <br>
+-- Stretch 2) Implement synchronous seed file <br> 
+-- Stretch 3) Put all HTTP verbs into separate routers / organize index.js <br>
