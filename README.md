@@ -1,4 +1,5 @@
-----Project 2----
+## Server Side Application
+# SQL Database 
 ## TABLES
 1) ANIMALS
 Species Name
@@ -18,7 +19,10 @@ Animal Predator ID
 Animal Prey ID
 
 ## Launch API
--- npm i, npm start / nodemon in Terminal
+$ npm i <br> 
+$ npm start <br> 
+or instead of npm start in Terminal use <br> 
+$ nodemon <br> 
 -- local host is on port 9000
 
 ## CRUD OPERATIONS
