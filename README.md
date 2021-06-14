@@ -1,5 +1,5 @@
-## Server Side Application
-# SQL Database 
+## Server-side SQLite and Express.js app
+
 ## TABLES
 1) ANIMALS
 Species Name
@@ -67,6 +67,5 @@ http://localhost:9000/habitats/1 --> Delete Habitat # 1
 -- DB Browser <br> 
 
 ## Next Steps
--- Stretch 1) Add user front HTML/CSS <br>
--- Stretch 2) Implement synchronous seed file <br> 
--- Stretch 3) Put all HTTP verbs into separate routers / organize index.js <br>
+-- Stretch 1) Implement synchronous seed file <br> 
+-- Stretch 2) Put all HTTP verbs into separate routers / organize index.js <br>
